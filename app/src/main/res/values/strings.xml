@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Video</string>
+    <string name="media_url_mp3">https://codelabs.developers.google.com/codelabs/exoplayer-intro/#0</string>
+</resources>
